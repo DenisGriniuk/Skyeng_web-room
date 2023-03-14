@@ -1,7 +1,7 @@
 ----
 ![Header](https://github.com/DenisGriniuk/Skyeng_web-room/blob/main/assets/the_main.jpg)
 <br><br>
-**Продукт: _веб-приложение для учителей (в разделе “Видеопрактика” веб-комната для занятий с учеником) и мобильное приложение для учеников_**
+**Продукт: _веб-приложение для учителей и мобильное приложение для учеников_**
 
 **Заказчик: _Компания “Skyeng”_**
 
@@ -92,6 +92,8 @@ _У нас веб-приложение для преподавателей и м
 >[Отчёт по функциональному чек-листу для видеопрактики со стороны У.pdf](https://github.com/DenisGriniuk/Skyeng_web-room/blob/main/assets/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BF%D0%BE%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC%D1%83%20%D1%87%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%D1%83%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8%20%D1%81%D0%BE%20%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%8B%20%D0%A3.pdf "PDF")
 
 - **Тестирование API:**
+
+Пример:
 
 ><img src="https://github.com/DenisGriniuk/Skyeng_web-room/blob/main/assets/api.jpg" width="800">
 
