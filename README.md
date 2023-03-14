@@ -1,5 +1,5 @@
 ----
-![Header](https://github.com/DenisGriniuk/Skyeng_web_room/blob/main/assets/the_main.jpg)
+![Header](https://github.com/DenisGriniuk/Skyeng_web-room/blob/main/assets/the_main.jpg)
 <br><br>
 **Продукт: _1. Веб-приложение для учителей от Skyeng (в разделе “Видеопрактика” веб-комната для занятий с учеником)_**
 
@@ -28,13 +28,14 @@ _У нас веб-приложение для преподавателей и м
 
 ----
 - **Декомпозиция в Miro:** 
-[Веб-комната преподавателя и ученика](https://miro.com/app/board/uXjVPh3WyFc=/?share_link_id=460094482297)
+[Веб-комната преподавателя и ученика](https://miro.com/app/board/uXjVPh3WyFc=/?share_link_id=797465922944)
 
 Пример:
 
-><img src="https://github.com/DenisGriniuk/Mobile_app_Skyeng/blob/main/assets/decomposition.jpg?raw=true" width="600">
+><img src="https://github.com/DenisGriniuk/Skyeng_web-room/blob/main/assets/decomposition.jpg" width="300">
 <br>
 
+----
 - **Окружение для тестирования** 
 
 **На основе пользовательских сценариев входа в веб-комнату выбраны:**
@@ -69,27 +70,38 @@ _У нас веб-приложение для преподавателей и м
 **Составлена задача простетировать:**
 1. Видеопрактику со стороны преподавателя в веб-приложении для учителей
 
-2. Видеопрактику со стороны ученика в мобильном приложение для учеников
+2. Видеопрактику со стороны ученика в мобильном приложении "Skyeng" для учеников
 
 ----
 
-### Были проведены следующие виды тестирования:
+**Были проведены следующие виды тестирования:**
 
-- **Исследовательское тестирование**
+- Исследовательское тестирование
+
+- Функциональное тестирование видеопрактики со стороны преподавателя
+
+- Функциональное тестирование + особые виды тестирования видеопрактики со стороны ученика
+
+- Тестирование API
+
+----
+### Отчет о тестировании:
 
 - **Функциональное тестирование видеопрактики со стороны преподавателя**
 
->[Отчёт по функциональному чек-листу для видеопрактики со стороны П.pdf](https://github.com/DenisGriniuk/Mobile_app_Skyeng/blob/main/assets/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%87%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%20%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%20%D0%A1%D0%B8%D1%82%D1%83%D0%B0%D1%86%D0%B8%D0%B8.pdf "PDF")
+>[Отчёт по функциональному чек-листу для видеопрактики со стороны П.pdf](https://github.com/DenisGriniuk/Skyeng_web-room/blob/main/assets/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BF%D0%BE%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC%D1%83%20%D1%87%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%D1%83%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8%20%D1%81%D0%BE%20%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%8B%20%D0%9F.pdf "PDF")
 
 - **Функциональное тестирование + особые виды тестирования видеопрактики со стороны ученика**
 
->[Отчёт по функциональному чек-листу для видеопрактики со стороны У.pdf](https://github.com/DenisGriniuk/Mobile_app_Skyeng/blob/main/assets/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%87%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%20%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%20%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0.pdf "PDF")
+>[Отчёт по функциональному чек-листу для видеопрактики со стороны У.pdf](https://github.com/DenisGriniuk/Skyeng_web-room/blob/main/assets/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BF%D0%BE%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC%D1%83%20%D1%87%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%D1%83%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8%20%D1%81%D0%BE%20%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%8B%20%D0%A3.pdf "PDF")
 
 - **Тестирование API**
 
->[Postman коллекция](https://drive.google.com/file/d/1LJrqr5aLlM0LYL1HzQi-12IVZqVUy5ye/view?usp=sharing "Skyeng")
+>[Postman коллекция](https://github.com/DenisGriniuk/Skyeng_web-room/blob/main/assets/Diplom.postman_collection "API")
 
-><img src="https://github.com/DenisGriniuk/Mobile_app_Skyeng/blob/main/assets/Situation_bugs.jpg?raw=true" width="800">
+Collection runner:
+
+><img src="https://github.com/DenisGriniuk/Skyeng_web-room/blob/main/assets/Postman_Run_results.jpg" width="800">
 
 ---
 
